@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653316548758",
+    "project_id": "wheretheyare-18a37",
+    "storage_bucket": "wheretheyare-18a37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653316548758:android:1e594b9f2f48c562313ab7",
+        "android_client_info": {
+          "package_name": "kd.dhyani.wheretheyare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0esh-kTzUYKNekeYSaFGhYnbnMt599Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

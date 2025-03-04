@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="display_small">#FFFFFF</color>
+    <color name="text_medium">#B3B3B3</color>
+    <color name="text_title">#FFFFFF</color>
+    <color name="body">#B3B3B3</color>
+    <color name="title">#121212</color>
+    <color name="placeholder">#757575</color>
+    <color name="shimmer">#666666</color>
+
+    <color name="one">#000000</color>
+    <color name="two">#fff</color>
+    <color name="search">#212127</color>
+</resources>
